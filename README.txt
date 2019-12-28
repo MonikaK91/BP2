@@ -1,3 +1,4 @@
+spremiti u folder i 
 u CMD-u instalirati:
 pip install python
 pip install pyqt5
@@ -12,5 +13,5 @@ Admin user 99 i lozinka 99
 
 
 
-
+u Folderu napraviti folder "racuni" 
 *UNOS RAČUNA- u 38 liniji koda potrebna promjena os->patha za sejvanje fajla na PC
